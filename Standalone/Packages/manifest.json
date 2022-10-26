@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.offlive.myty.myty-kit": "https://github.com/Off-Live/myty-kit.git?path=/Assets",
     "com.unity.2d.psdimporter": "6.0.6",
     "com.unity.collab-proxy": "1.15.18",
     "com.unity.feature.development": "1.0.1",
